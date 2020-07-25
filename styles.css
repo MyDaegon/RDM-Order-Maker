@@ -1,0 +1,70 @@
+html{
+
+    background-color: cadetblue;
+
+}
+
+#maindiv {
+
+    background-color: cadetblue;
+    text-align: center;
+
+}
+
+#maindiv h1{
+
+    color: white;
+    font-size: 50px;
+    padding-top: 5px;
+
+}
+
+#maindiv p{
+
+    color: black;
+    font-size: 20px;
+
+
+}
+
+#st {
+
+    padding-top: 20px;
+
+}
+
+#nd {
+
+    padding-top: 20px;
+
+}
+
+#nd button{
+
+    padding-left: 10px;
+
+}
+
+#rd{
+
+    padding-top: 20px;
+
+}
+
+#Jogador1 {
+
+    padding-right: 30px;
+
+}
+
+#Jogador2{
+
+    padding-left: 30px;
+
+}
+
+#for {
+
+    padding-top: 40px;
+
+}
