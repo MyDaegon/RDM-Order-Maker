@@ -1,4 +1,4 @@
-# RDM-Order-Maker
+# RDM Order Maker
 
 # English
 
